@@ -1,5 +1,4 @@
 # MunneruBasin-SoilErosion-GEE
-# Munneru Basin Soil Erosion Estimation (NIT Trichy Internship)
 
 ## Objective
 
